@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abrar Ahamed I</h1>
-<h3 align="center">Making machines a little less clueless 🐒 built with code, coffee, and curiosity.</h3>
+<h3 align="center">Making machines a little less clueless 🐒 built with code👨🏻‍💻, coffee☕, and curiosity😸.</h3>
 
 - 🔭 I’m currently working on [The Truth Herald](https://news-7j44248rn-abrarnotfounds-projects.vercel.app/)
 
